@@ -7,7 +7,6 @@ local function load_plugins(colors, config)
 		"treesitter",
 		"nvimtree",
 		"telescope",
-		"lualine",
 		"bufferline",
 		-- more plugins can be added here
 	}
